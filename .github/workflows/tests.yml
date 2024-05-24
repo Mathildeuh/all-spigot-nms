@@ -19,6 +19,12 @@ jobs:
       run: |
         cd src
         bash run.sh -a
+        
+    - name: Upload
+      uses: actions/upload-artifact@v4
+      with:
+        name: all-spigot-NMS-Linux.jar
+        path: extracted_files/all-spigot-nms.jar
   windows:
     name: Windows Test
     runs-on: windows-latest
