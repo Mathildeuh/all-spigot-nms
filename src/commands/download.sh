@@ -3,33 +3,10 @@
 # Run this to download all the available jars.
 
 # All the NMS versions available
-legacy_versions=(
-  "spigot-1.8-R0.1-SNAPSHOT-latest"
-  "spigot-1.8.3-R0.1-SNAPSHOT-latest"
-  "spigot-1.8.8-R0.1-SNAPSHOT-latest"
-  "spigot-1.9.2-R0.1-SNAPSHOT-latest"
-  "spigot-1.9.4-R0.1-SNAPSHOT-latest"
-  "spigot-1.10.2-R0.1-SNAPSHOT-latest"
-  "spigot-1.11.2"
-  "spigot-1.12.2"
-  "spigot-1.13"
-  "spigot-1.13.2"
-  "spigot-1.14.4"
-  "spigot-1.15.2"
-  "spigot-1.16.1"
-  "spigot-1.16.3"
-  "spigot-1.16.5"
+legacy_versions=(""
 )
 
 versions=(
-  "spigot-1.17.1"
-  "spigot-1.18.1"
-  "spigot-1.18.2"
-  "spigot-1.19.2"
-  "spigot-1.19.3"
-  "spigot-1.19.4"
-  "spigot-1.20.1"
-  "spigot-1.20.2"
   "spigot-1.20.4"
 )
 
